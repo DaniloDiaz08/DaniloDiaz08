@@ -6,17 +6,9 @@
   <img
        width="100%" align="center" src="https://github.com/SoffiaSanchezz/Img/blob/main/Black%20Modern%20Geometric%20Personal%20LinkedIn%20Banner.gif?raw=true" />
       <h2>¡A day without coffee is like...
-Just kidding, I have no idea what it's like! <img  src="https://media1.giphy.com/media/izxvpWqtDOq4RGZguT/giphy.webp" width="50"></h2>
-  
+          Just kidding, I have no idea what it's like! <img  src="https://media1.giphy.com/media/izxvpWqtDOq4RGZguT/giphy.webp" width="50"></h2>
 </div>
-
-
-
-
-
-
-
-
+  
 <h2 bg-[#8149A6]> My Stats <img src="https://media1.giphy.com/media/SvFocn0wNMx0iv2rYz/200w.webp?cid=ecf05e47aordtqv1fk508l1r1oj4rx09o1fysqzgn5wjsbjk&rid=200w.webp&ct=g"  align=""  width="50"></h2>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DaniloDiaz08&theme=dracula)](https://git.io/streak-stats)
@@ -27,7 +19,7 @@ Just kidding, I have no idea what it's like! <img  src="https://media1.giphy.com
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloDiaz08&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"> 
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline_block" align=""><br>
 
 <h4>Full Stack Junior Web Developer in training, enthusiastic about design, passionate about web design, knowledgeable about these languages and tools, finally, I like to learn a lot, and I want to deepen in each language.</h4>
  
