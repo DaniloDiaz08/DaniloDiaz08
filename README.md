@@ -38,7 +38,7 @@
 </div>
 
  
- <h2>Connect with me: <img src="https://giphy.com/catgrass" width="40"></h2>
+ <h2>Connect with me: <img src="https://media4.giphy.com/media/RvAGXBZw6mqrQSaNpB/200w.webp" width="40"></h2>
   <a href="https://www.linkedin.com/in/danilo-diaz-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=Violet" target="_blank"></a>
  
 
